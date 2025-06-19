@@ -3,7 +3,7 @@
 This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
 
 ---
-How to use - send this link to ur loved one 😍. link -
+How to use - send this link to ur loved one 😍. link - https://tarun08-code.github.io/Will-you-be-my-Valentine-/
 
 ## **🚀 Respect Open-Source**
 I built this for **fun & learning**. If you fork or modify it:  
