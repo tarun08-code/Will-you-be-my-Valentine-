@@ -3,6 +3,8 @@
 This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
 
 ---
+How to use - send this link to ur loved one 😍. link -
+
 ## **🚀 Respect Open-Source**
 I built this for **fun & learning**. If you fork or modify it:  
 ✔ **Use it for creativity, personal projects, or learning**  
